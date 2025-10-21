@@ -1,2 +1,1 @@
-# linux_for_devs
-...
+# WELCOME; THIS IS THE GLUD COURSE LINUX FOR DEVS
